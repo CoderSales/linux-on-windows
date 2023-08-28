@@ -2,6 +2,8 @@
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
 
+![Windows logo and wordmark](/assets/images/Windows_logo_and_wordmark_-_2021.svg.png)
+
 wsl
 
 ## open terminal
@@ -58,3 +60,8 @@ on Alpine.
 - [linux logo | horizontal rule in markdown](https://www.markdownguide.org/basic-syntax/)
 - [File:Tux.png](https://en.wikipedia.org/wiki/File:Tux.png)
 - [Tux (mascot)](https://en.wikipedia.org/wiki/Tux_%28mascot%29)
+
+### Microsoft Windows image
+
+- [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+- [File:Windows logo and wordmark - 2021.svg](https://en.wikipedia.org/wiki/File:Windows_logo_and_wordmark_-_2021.svg)

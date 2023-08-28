@@ -28,6 +28,22 @@ and it may install automatically.
 
 (Alternatively, may have to install Distro on Windows.)
 
+## Other notes / issues
+
+### Alpine ~# sudo -i
+
+``` bash
+sudo -i
+```
+
+gives 
+
+``` bash
+-ash: sudo: not found
+```
+
+on Alpine.
+
 ## References
 
 - [ChatGPT3.5](https://chat.openai.com/chat)

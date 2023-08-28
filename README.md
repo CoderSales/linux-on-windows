@@ -1,5 +1,8 @@
 # linux-on-windows
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
+
 wsl
 
 ## open terminal
@@ -28,6 +31,9 @@ and it may install automatically.
 
 (Alternatively, may have to install Distro on Windows.)
 
+____
+____
+
 ## Other notes / issues
 
 ### Alpine ~# sudo -i
@@ -47,3 +53,4 @@ on Alpine.
 ## References
 
 - [ChatGPT3.5](https://chat.openai.com/chat)
+- [linux logo | horizontal rule in markdown](https://www.markdownguide.org/basic-syntax/)

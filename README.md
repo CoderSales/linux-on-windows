@@ -2,7 +2,7 @@
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
 
-![Windows logo and wordmark](/assets/images/Windows_logo_and_wordmark_-_2021.svg)
+![Windows logo and wordmark](/assets/images/Windows_logo_and_wordmark_-_2021.svg.png)
 
 wsl
 

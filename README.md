@@ -2,7 +2,6 @@
 
 ![Tux, the Linux mascot](/assets/images/tux.png)
 
-
 wsl
 
 ## open terminal
@@ -53,4 +52,9 @@ on Alpine.
 ## References
 
 - [ChatGPT3.5](https://chat.openai.com/chat)
+
+### Linux image
+
 - [linux logo | horizontal rule in markdown](https://www.markdownguide.org/basic-syntax/)
+- [File:Tux.png](https://en.wikipedia.org/wiki/File:Tux.png)
+- [Tux (mascot)](https://en.wikipedia.org/wiki/Tux_%28mascot%29)

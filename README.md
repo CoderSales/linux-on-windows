@@ -6,6 +6,10 @@
 
 wsl
 
+## description
+
+manage **uninstallation** of linux distro's as applicable on Windows
+
 ## open terminal
 
 cmd > As admin
